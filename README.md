@@ -44,14 +44,6 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 
 ---
 
-### 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zawawieamin95&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawawieamin95&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zawawie-abdul-amin-127a12222)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zawawieamin)
