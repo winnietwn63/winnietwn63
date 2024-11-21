@@ -1,5 +1,5 @@
 
-# 🌟 Hi there, I’m Winnie Tseu! 👨‍💻
+# 🌟 Hi there, I’m Winnie Tseu! 👩🏻‍💻
 
 Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate about coding, problem-solving, and building impactful projects. 🚀
 
