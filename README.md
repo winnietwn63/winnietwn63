@@ -49,7 +49,3 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Winnieee63/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xwinnieee63)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:63wini@gmail.com)
-
----
-
-⭐ **"Code is like humor. When you have to explain it, it’s bad." – Cory House** ⭐
