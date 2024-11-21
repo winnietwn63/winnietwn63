@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a **Software Engineering Student** passionate 
 ### 💻 Projects
 
 #### 1. [Home Service Management System](https://github.com/yourusername/campsite-booking-system)
-- 🏕️ **Description**: A web-based system that allows users to book home services online to their doorsteps.
+- 🏡 **Description**: A web-based system that allows users to book home services online to their doorsteps.
 - 🔧 **Tech Stack**: PHP, MySQL, HTML, CSS, JavaScript
 
 #### 2. [Library Management System](https://github.com/yourusername/event-management-system)
